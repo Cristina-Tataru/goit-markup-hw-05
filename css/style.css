@@ -25,6 +25,9 @@ ol {
   --grey-paragraphs: #434455;
   --off-white: #f4f4fd;
   --white: #fff;
+  --transition-variable: cubic-bezier(0.4, 0, 0.2, 1);
+  --modal-data-background: #fcfcfc;
+
 }
 .section {
   padding: 120px 0;
