@@ -632,7 +632,13 @@ h2 {
   font-size: 16px;
   letter-spacing: 0.02em;
   font-weight: 400;
-  line-height: 1.5em;
+  line-height: 1.5;
+  position: absolute;
+  top: 0;
+  padding: 40px 32px;
+  background-color:#4d5ae5 ;
+  height: 100%;
+
 }
 .projects {
   padding-top: 96px;
